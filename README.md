@@ -8,17 +8,17 @@ Most of the companies behind these products are early-stage startups; some descr
 These products allow you to have a PaaS-like developer experience with your account at a major cloud provider like AWS, GCP or Azure without having to configure all the building blocks yourself. Think Heroku / Render / Railway kind of experience but powered by your cloud account.
 
 - [Argonaut](https://www.argonaut.dev/) - Your Dream DevOps Platform. End to end deployments to AWS and GCP in minutes.
-- [Beplus](https://beplus.cloud/) - Making AWS Cloud More Approachable
-- [FlightControl](https://flightcontrol.dev/) - Fullstack Deploy Platform that runs on your own cloud. Bringing world-class DX to fullstack on your own cloud.
-- [Massdriver](https://www.massdriver.cloud/) - Platform Engineering for Growing Software Teams. Faster feature development through self-service.
+- [Beplus](https://beplus.cloud/) - Making AWS Cloud More Approachable.
+- [FlightControl](https://flightcontrol.dev/) - Fullstack Deploy Platform that runs on your own cloud.
+- [Massdriver](https://www.massdriver.cloud/) - Platform Engineering for Growing Software Teams.
 - [Northflank](http://northflank.com/) Deploy (code / databases / jobs) in seconds
-- [Nullstone](https://www.nullstone.io/) - Ship like a startup. Manage infrastructure like an enterprise. Full stack apps and environments on your cloud in moments.
+- [Nullstone](https://www.nullstone.io/) - Ship like a startup. Manage infrastructure like an enterprise.
 - [Nucleus](https://www.nucleuscloud.com/) - The easiest way to build, deploy and manage services on Kubernetes.
-- [Opsly](http://opslycloud.com) - There's a faster way to cloud infrastructure. Build, deploy and manage any Application or Cloud Service on AWS / GCP / Azure.
+- [Opsly](http://opslycloud.com) - There's a faster way to cloud infrastructure.
 - [Ploi](https://ploi.io/) - Deploy your next server in a few clicks.
-- [Porter](https://www.getporter.dev/) - A modern app platform in your own cloud. Porter is a fully-managed PaaS that lets teams automate DevOps.
+- [Porter](https://www.getporter.dev/) - A modern app platform in your own cloud.
 - [Qovery](http://quovery.com) - Deliver Self-Service Infrastructure Faster.
-- [Stacktape](https://www.stacktape.com/) - Makes DevOps simple, allowing developers to deploy and run full-stack applications on AWS entirely on their own.
+- [Stacktape](https://www.stacktape.com/) - Still your AWS, but 97% easier.
 - [Zeet](http://zeet.co) - Simplify operations across your clouds.
   
 # Internal Developer Portals / Service catalogs
