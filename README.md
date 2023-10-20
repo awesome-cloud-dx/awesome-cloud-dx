@@ -20,6 +20,15 @@ These products allow you to have a PaaS-like developer experience with your acco
 - [Qovery](http://quovery.com) - Deliver Self-Service Infrastructure Faster.
 - [Stacktape](https://www.stacktape.com/) - Still your AWS, but 97% easier.
 - [Zeet](http://zeet.co) - Simplify operations across your clouds.
+
+# Self-hosted PaaS
+Unlike the first category, these don't automatically configure your cloud account - you need to deploy the app yourself
+
+- [Caprover](https://caprover.com/) - Free and Open Source PaaS
+- [Dokku](https://dokku.com/) - OSS self-hostable Heroku
+- [Coolify](https://www.producthunt.com/posts/coolify) - An open-source & self-hostable Heroku, Netlify alternative
+- [Kubero](https://www.kubero.dev/) - PaaS for Kubernetes. Use Heroku Workflows to deploy your App
+
   
 # Internal Developer Portals / Service catalogs
 
