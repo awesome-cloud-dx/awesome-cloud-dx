@@ -28,6 +28,21 @@ These products are primarily for Platform / SRE teams rather than developers. Th
 - [Backstage by Spotify](https://backstage.spotify.com/) - Open platform for building developer portals
 - [Clutch by Lyft](http://clutch.sh) - Shifting infrastructure management to a friendlier place
 - [Configure8](https://www.configure8.io/) - A developer portal for cataloging everything.
-- [OpsLevel](https://www.opslevel.com/) - “the internal developer portal for teams”
+- [OpsLevel](https://www.opslevel.com/) - The internal developer portal for teams
 - [Port](http://Getport.io) - A developer portal for all your services, software & resources. 
 - [Roadie](https://roadie.io/) - The easiest way to get Spotify Backstage
+
+# Preview Environments / Environments-as-a-service
+
+These products allow teams to spin up complete production-like environments on demand, for every feature branch or project.
+
+- [BunnyShell](https://www.bunnyshell.com/) - Self-service Cloud Development Environments. Full-stack production-like replicas on any cloud.
+- [Ergomake](https://ergomake.dev/) - Remote ephemeral environments for every pull request / from your terminal.
+- [GitPod](https://www.gitpod.io/) - Always ready to code. Spin up fresh, automated dev environments for each task, in the cloud, in seconds.
+- [Okteto](https://www.okteto.com/) - “Cloud Development Simplified. Instantly spin up production-like dev environments in the cloud for every developer
+- [Recode](https://github.com/recode-sh/cli) - Remote development environments defined as code. Running in your cloud provider account.
+- [Release](https://releasehub.com/) - Environments as a Service. On-demand environments for development, staging and production.
+- [Shipyard](https://shipyard.build/) - Automated Staging Environments. Ephemeral Environments for your Developers, Product, QA, and Sales teams.
+- [Velocity](http://velocity.tech) - Production-Like Environments. On-Demand. Accelerate the way you build and deliver products. 
+- [Webapp.io](http://webapp.io) - [formerly Layer CI] CI/CD & Preview Environments. 10x better DevOps for WebApps
+
