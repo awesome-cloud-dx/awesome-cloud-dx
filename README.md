@@ -12,13 +12,12 @@ These products allow you to have a PaaS-like developer experience with your acco
 - [FlightControl](https://flightcontrol.dev/) - Fullstack Deploy Platform that runs on your own cloud. Bringing world-class DX to fullstack on your own cloud.
 - [Massdriver](https://www.massdriver.cloud/) - Platform Engineering for Growing Software Teams. Faster feature development through self-service.
 - [Northflank](http://northflank.com/) Deploy (code / databases / jobs) in seconds
-- [Nullstone](https://www.nullstone.io/) - Ship like a startup. Manage infrastructure like an enterprise. Full stack apps and environments on your cloud in moments. Unified developer platform. Secure and compliant infrastructure extensible with your own Terraform.
+- [Nullstone](https://www.nullstone.io/) - Ship like a startup. Manage infrastructure like an enterprise. Full stack apps and environments on your cloud in moments.
 - [Nucleus](https://www.nucleuscloud.com/) - The easiest way to build, deploy and manage services on Kubernetes.
 - [Opsly](http://opslycloud.com) - There's a faster way to cloud infrastructure. Build, deploy and manage any Application or Cloud Service on AWS / GCP / Azure.
-- [Ploi](https://ploi.io/) - Deploy your next server in a few clicks. We take all the difficult work out of your hands, so you can focus on doing what you love: developing your application.
-- [Porter](https://www.getporter.dev/) - A modern app platform in your own cloud. Porter is a fully-managed PaaS that lets teams automate DevOps. Deploy and manage apps within AWS, GCP, DO, and more
-- [Setops](https://www.setops.co/) - Cloud Deployment Made For Developers. Run containers, databases and more in your own AWS account within minutes. No Ops knowledge needed.
-- [Qovery](http://quovery.com) - Deliver Self-Service Infrastructure Faster. Qovery turns your existing Infrastructure as Code and Kubernetes manifests into repeatable blueprints for complete environments.
-- [Zeet](http://zeet.co) - Simplify operations across your clouds. Zeet centralizes operating your services, apps, and infra giving teammates the ability to provision and manage resources through reusable templates.
-- [Stacktape](https://www.stacktape.com/) - Makes DevOps simple, allowing developers to deploy and run full-stack applications on AWS entirely on their own. Production-ready in minutes, not months.
+- [Ploi](https://ploi.io/) - Deploy your next server in a few clicks.
+- [Porter](https://www.getporter.dev/) - A modern app platform in your own cloud. Porter is a fully-managed PaaS that lets teams automate DevOps.
+- [Qovery](http://quovery.com) - Deliver Self-Service Infrastructure Faster.
+- [Zeet](http://zeet.co) - Simplify operations across your clouds.
+- [Stacktape](https://www.stacktape.com/) - Makes DevOps simple, allowing developers to deploy and run full-stack applications on AWS entirely on their own.
   
