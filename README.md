@@ -18,6 +18,16 @@ These products allow you to have a PaaS-like developer experience with your acco
 - [Ploi](https://ploi.io/) - Deploy your next server in a few clicks.
 - [Porter](https://www.getporter.dev/) - A modern app platform in your own cloud. Porter is a fully-managed PaaS that lets teams automate DevOps.
 - [Qovery](http://quovery.com) - Deliver Self-Service Infrastructure Faster.
-- [Zeet](http://zeet.co) - Simplify operations across your clouds.
 - [Stacktape](https://www.stacktape.com/) - Makes DevOps simple, allowing developers to deploy and run full-stack applications on AWS entirely on their own.
+- [Zeet](http://zeet.co) - Simplify operations across your clouds.
   
+# Internal Developer Portals / Service catalogs
+
+These products are primarily for Platform / SRE teams rather than developers. They tend to be less opinionated about the implementation of the underlying infrastructure; more like internal developer-facing UIs that enable developers to follow existing DevSecOps practices.
+
+- [Backstage by Spotify](https://backstage.spotify.com/) - Open platform for building developer portals
+- [Clutch by Lyft](http://clutch.sh) - Shifting infrastructure management to a friendlier place
+- [Configure8](https://www.configure8.io/) - A developer portal for cataloging everything.
+- [OpsLevel](https://www.opslevel.com/) - “the internal developer portal for teams”
+- [Port](http://Getport.io) - A developer portal for all your services, software & resources. 
+- [Roadie](https://roadie.io/) - The easiest way to get Spotify Backstage
