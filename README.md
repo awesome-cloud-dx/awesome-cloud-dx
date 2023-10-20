@@ -38,11 +38,11 @@ These products allow teams to spin up complete production-like environments on d
 
 - [BunnyShell](https://www.bunnyshell.com/) - Self-service Cloud Development Environments. Full-stack production-like replicas on any cloud.
 - [Ergomake](https://ergomake.dev/) - Remote ephemeral environments for every pull request / from your terminal.
-- [GitPod](https://www.gitpod.io/) - Always ready to code. Spin up fresh, automated dev environments for each task, in the cloud, in seconds.
-- [Okteto](https://www.okteto.com/) - “Cloud Development Simplified. Instantly spin up production-like dev environments in the cloud for every developer
+- [GitPod](https://www.gitpod.io/) - Always ready-to-code. Ship software faster with cloud development environments.
+- [Okteto](https://www.okteto.com/) - Cloud Development Simplified. Instantly spin up production-like dev environments in the cloud for every developer.
 - [Recode](https://github.com/recode-sh/cli) - Remote development environments defined as code. Running in your cloud provider account.
 - [Release](https://releasehub.com/) - Environments as a Service. On-demand environments for development, staging and production.
-- [Shipyard](https://shipyard.build/) - Automated Staging Environments. Ephemeral Environments for your Developers, Product, QA, and Sales teams.
+- [Shipyard](https://shipyard.build/) - A New Environment For Every Pull Request.
 - [Velocity](http://velocity.tech) - Production-Like Environments. On-Demand. Accelerate the way you build and deliver products. 
 - [Webapp.io](http://webapp.io) - [formerly Layer CI] CI/CD & Preview Environments. 10x better DevOps for WebApps
 
