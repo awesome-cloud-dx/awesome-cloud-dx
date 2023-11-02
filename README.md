@@ -1,6 +1,6 @@
 # awesome-cloud-dx
 
-This list is compiled from internal Notion pages we wrote at [Digger](github.com/diggerhq/digger). We used to consider nearly all of these products competition. Luckily we learned the benefits of doing one thing well, and focused on ci/cd for terraform instead. So we aren't even on the list! But we are sending this list around fairly often to others building or investing in the space. So why not make another awesome-list of it?
+This list is compiled from internal Notion pages we wrote at [Digger](https://github.com/diggerhq/digger). We used to consider nearly all of these products competition. Luckily we learned the benefits of doing one thing well, and focused on ci/cd for terraform instead. So we aren't even on the list! But we are sending this list around fairly often to others building or investing in the space. So why not make another awesome-list of it?
 
 Most of the companies behind these products are early-stage startups; some descriptions might be out of date as their landing pages are updated frequently. Please submit PRs to fix!
 
