@@ -7,19 +7,20 @@ Most of the companies behind these products are early-stage startups; some descr
 # Heroku-like UIs for your cloud account / Kubernetes
 These products allow you to have a PaaS-like developer experience with your account at a major cloud provider like AWS, GCP or Azure without having to configure all the building blocks yourself. Think Heroku / Render / Railway kind of experience but powered by your cloud account.
 
-- [Argonaut](https://www.argonaut.dev/) - Your Dream DevOps Platform. End to end deployments to AWS and GCP in minutes.
-- [Beplus](https://beplus.cloud/) - Making AWS Cloud More Approachable.
-- [FlightControl](https://flightcontrol.dev/) - Fullstack Deploy Platform that runs on your own cloud.
+- [Argonaut](https://www.argonaut.dev/) - Your Dream DevOps Platform. End to end deployments to AWS and GCP in minutes
+- [Beplus](https://beplus.cloud/) - Making AWS Cloud More Approachable
+- [FlightControl](https://flightcontrol.dev/) - Fullstack Deploy Platform that runs on your own cloud
+- [Hop.io](https://hop.io/) - No more configs. No more fuss. Just push your code
 - [KintoHub](https://www.kintohub.com/) - All-in-one platform to combine and deploy your backend services, ... in one place 
-- [Massdriver](https://www.massdriver.cloud/) - Platform Engineering for Growing Software Teams.
+- [Massdriver](https://www.massdriver.cloud/) - Platform Engineering for Growing Software Teams
 - [Northflank](http://northflank.com/) Deploy (code / databases / jobs) in seconds
-- [Nullstone](https://www.nullstone.io/) - Ship like a startup. Manage infrastructure like an enterprise.
-- [Nucleus](https://www.nucleuscloud.com/) - The easiest way to build, deploy and manage services on Kubernetes.
-- [Opsly](http://opslycloud.com) - There's a faster way to cloud infrastructure.
-- [Ploi](https://ploi.io/) - Deploy your next server in a few clicks.
+- [Nullstone](https://www.nullstone.io/) - Ship like a startup. Manage infrastructure like an enterprise
+- [Nucleus](https://www.nucleuscloud.com/) - The easiest way to build, deploy and manage services on Kubernetes
+- [Opsly](http://opslycloud.com) - There's a faster way to cloud infrastructure
+- [Ploi](https://ploi.io/) - Deploy your next server in a few clicks
 - [Plural](https://www.plural.sh/) - The easiest way to deploy and manage services on Kubernetes
-- [Qovery](http://quovery.com) - Deliver Self-Service Infrastructure Faster.
-- [Stacktape](https://www.stacktape.com/) - Still your AWS, but 97% easier.
+- [Qovery](http://quovery.com) - Deliver Self-Service Infrastructure Faster
+- [Stacktape](https://www.stacktape.com/) - Still your AWS, but 97% easier
 - [Zeet](http://zeet.co) - Simplify operations across your clouds.
 
 ### No longer in business
