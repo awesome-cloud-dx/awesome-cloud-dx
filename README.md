@@ -10,6 +10,7 @@ These products allow you to have a PaaS-like developer experience with your acco
 - [Argonaut](https://www.argonaut.dev/) - Your Dream DevOps Platform. End to end deployments to AWS and GCP in minutes.
 - [Beplus](https://beplus.cloud/) - Making AWS Cloud More Approachable.
 - [FlightControl](https://flightcontrol.dev/) - Fullstack Deploy Platform that runs on your own cloud.
+- [KintoHub](https://www.kintohub.com/) - All-in-one platform to combine and deploy your backend services, ... in one place 
 - [Massdriver](https://www.massdriver.cloud/) - Platform Engineering for Growing Software Teams.
 - [Northflank](http://northflank.com/) Deploy (code / databases / jobs) in seconds
 - [Nullstone](https://www.nullstone.io/) - Ship like a startup. Manage infrastructure like an enterprise.
@@ -21,6 +22,15 @@ These products allow you to have a PaaS-like developer experience with your acco
 - [Qovery](http://quovery.com) - Deliver Self-Service Infrastructure Faster.
 - [Stacktape](https://www.stacktape.com/) - Still your AWS, but 97% easier.
 - [Zeet](http://zeet.co) - Simplify operations across your clouds.
+
+### No longer in business
+- Atomized - Enables developers to launch application infrastructure in their favorite cloud provider
+- Cohesive - Modern development platform for fast-moving teams
+- Powertools - The fastest way to ship software on your cloud account
+- RunX Automated Infrastructure on any cloud
+- Tinystacks - Fastest way to deploy your Docker app on AWS
+- Unicorn Platform - Create your AWS infrastructure in seconds
+
 
 # Self-hosted PaaS
 Unlike the first category, these don't automatically configure your cloud account - you need to deploy the app yourself
