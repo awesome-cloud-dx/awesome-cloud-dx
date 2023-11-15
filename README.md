@@ -17,7 +17,6 @@ These products allow you to have a PaaS-like developer experience with your acco
 - [Nucleus](https://www.nucleuscloud.com/) - The easiest way to build, deploy and manage services on Kubernetes.
 - [Opsly](http://opslycloud.com) - There's a faster way to cloud infrastructure.
 - [Ploi](https://ploi.io/) - Deploy your next server in a few clicks.
-- [Porter](https://www.getporter.dev/) - A modern app platform in your own cloud.
 - [Plural](https://www.plural.sh/) - The easiest way to deploy and manage services on Kubernetes
 - [Qovery](http://quovery.com) - Deliver Self-Service Infrastructure Faster.
 - [Stacktape](https://www.stacktape.com/) - Still your AWS, but 97% easier.
@@ -26,6 +25,7 @@ These products allow you to have a PaaS-like developer experience with your acco
 ### No longer in business
 - Atomized - Enables developers to launch application infrastructure in their favorite cloud provider
 - Cohesive - Modern development platform for fast-moving teams
+- Porter - A modern app platform in your own cloud
 - Powertools - The fastest way to ship software on your cloud account
 - RunX Automated Infrastructure on any cloud
 - Tinystacks - Fastest way to deploy your Docker app on AWS
