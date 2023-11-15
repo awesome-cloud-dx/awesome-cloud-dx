@@ -4,7 +4,7 @@ This list is compiled from internal Notion pages we wrote at [Digger](github.com
 
 Most of the companies behind these products are early-stage startups; some descriptions might be out of date as their landing pages are updated frequently. Please submit PRs to fix!
 
-# Heroku-like UIs for your cloud account
+# Heroku-like UIs for your cloud account / Kubernetes
 These products allow you to have a PaaS-like developer experience with your account at a major cloud provider like AWS, GCP or Azure without having to configure all the building blocks yourself. Think Heroku / Render / Railway kind of experience but powered by your cloud account.
 
 - [Argonaut](https://www.argonaut.dev/) - Your Dream DevOps Platform. End to end deployments to AWS and GCP in minutes.
@@ -17,6 +17,7 @@ These products allow you to have a PaaS-like developer experience with your acco
 - [Opsly](http://opslycloud.com) - There's a faster way to cloud infrastructure.
 - [Ploi](https://ploi.io/) - Deploy your next server in a few clicks.
 - [Porter](https://www.getporter.dev/) - A modern app platform in your own cloud.
+- [Plural](https://www.plural.sh/) - The easiest way to deploy and manage services on Kubernetes
 - [Qovery](http://quovery.com) - Deliver Self-Service Infrastructure Faster.
 - [Stacktape](https://www.stacktape.com/) - Still your AWS, but 97% easier.
 - [Zeet](http://zeet.co) - Simplify operations across your clouds.
