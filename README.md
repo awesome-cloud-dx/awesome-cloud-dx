@@ -13,6 +13,7 @@ These products allow you to have a PaaS-like developer experience with your acco
 - [Hop.io](https://hop.io/) - No more configs. No more fuss. Just push your code
 - [KintoHub](https://www.kintohub.com/) - All-in-one platform to combine and deploy your backend services, ... in one place 
 - [Massdriver](https://www.massdriver.cloud/) - Platform Engineering for Growing Software Teams
+- [Multy.dev](https://multy.dev/) (acquired by [Ori](https://ori.co/)) - Deploy cloud agnostic infrastructure anywhere 
 - [Northflank](http://northflank.com/) Deploy (code / databases / jobs) in seconds
 - [Nullstone](https://www.nullstone.io/) - Ship like a startup. Manage infrastructure like an enterprise
 - [Nucleus](https://www.nucleuscloud.com/) - The easiest way to build, deploy and manage services on Kubernetes
