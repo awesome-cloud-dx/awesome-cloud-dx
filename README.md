@@ -4,7 +4,7 @@ This list is compiled from internal Notion pages we wrote at [Digger](github.com
 
 Most of the companies behind these products are early-stage startups; some descriptions might be out of date as their landing pages are updated frequently. Please submit PRs to fix!
 
-# Heroku-like UIs for your cloud account / Kubernetes
+# Simplified UX for your cloud account / Kubernetes
 These products allow you to have a PaaS-like developer experience with your account at a major cloud provider like AWS, GCP or Azure without having to configure all the building blocks yourself. Think Heroku / Render / Railway kind of experience but powered by your cloud account.
 
 - [Beplus](https://beplus.cloud/) - Making AWS Cloud More Approachable
@@ -17,6 +17,7 @@ These products allow you to have a PaaS-like developer experience with your acco
 - [Northflank](http://northflank.com/) Deploy (code / databases / jobs) in seconds
 - [Nullstone](https://www.nullstone.io/) - Ship like a startup. Manage infrastructure like an enterprise
 - [Nucleus](https://www.nucleuscloud.com/) - The easiest way to build, deploy and manage services on Kubernetes
+- [Nuon](https://nuon.co) - Platform for creating BYOC applications
 - [Opsly](http://opslycloud.com) - There's a faster way to cloud infrastructure
 - [Ploi](https://ploi.io/) - Deploy your next server in a few clicks
 - [Plural](https://www.plural.sh/) - The easiest way to deploy and manage services on Kubernetes
