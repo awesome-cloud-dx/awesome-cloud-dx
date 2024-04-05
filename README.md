@@ -1,6 +1,6 @@
 # awesome-cloud-dx
 
-This list is compiled from internal Notion pages we wrote at [Digger](github.com/diggerhq/digger). We used to consider nearly all of these products competition. Digger today is a completely different product (ci/cd orchestrator for Terraform) - so we aren't even on the list!
+This list is compiled from internal Notion pages we wrote at [Digger](https://github.com/diggerhq/digger). We used to consider nearly all of these products competition. Digger today is a completely different product (ci/cd orchestrator for Terraform) - so we aren't even on the list!
 
 Most of the companies behind these products are early-stage startups; some descriptions might be out of date as their landing pages are updated frequently. Please submit PRs to fix!
 
