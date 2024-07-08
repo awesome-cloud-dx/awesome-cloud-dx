@@ -8,6 +8,7 @@ Most of the companies behind these products are early-stage startups; some descr
 These products allow you to have a PaaS-like developer experience with your account at a major cloud provider like AWS, GCP or Azure without having to configure all the building blocks yourself. Think Heroku / Render / Railway kind of experience but powered by your cloud account.
 
 - [Beplus](https://beplus.cloud/) - Making AWS Cloud More Approachable
+- [Cloud66](https://cloud66.com) - Everything you need to run your code on any cloud
 - [DevTron](https://devtron.ai/) - The Open-Source Software Delivery Platform for Kubernetes applications
 - [FlightControl](https://flightcontrol.dev/) - Fullstack Deploy Platform that runs on your own cloud
 - [Hop.io](https://hop.io/) - No more configs. No more fuss. Just push your code
