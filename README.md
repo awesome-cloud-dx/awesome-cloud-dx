@@ -10,6 +10,7 @@ These products allow you to have a PaaS-like developer experience with your acco
 - [Beplus](https://beplus.cloud/) - Making AWS Cloud More Approachable
 - [Cloud66](https://cloud66.com) - Everything you need to run your code on any cloud
 - [DevTron](https://devtron.ai/) - The Open-Source Software Delivery Platform for Kubernetes applications
+- [Elestio](https://elest.io/) - Fully managed DevOps platform to deploy your code and open-source software
 - [FlightControl](https://flightcontrol.dev/) - Fullstack Deploy Platform that runs on your own cloud
 - [Hop.io](https://hop.io/) - No more configs. No more fuss. Just push your code
 - [KintoHub](https://www.kintohub.com/) - All-in-one platform to combine and deploy your backend services, ... in one place 
