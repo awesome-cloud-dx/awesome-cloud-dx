@@ -25,6 +25,7 @@ These products allow you to have a PaaS-like developer experience with your acco
 - [Plural](https://www.plural.sh/) - The easiest way to deploy and manage services on Kubernetes
 - [Porter](https://porter.run) - Easiest way to deploy on AWS/GCP/Azure
 - [Qovery](http://quovery.com) - Deliver Self-Service Infrastructure Faster
+- [ShapeBlock](https://www.shapeblock.com/) - Run your applications on a Heroku-like PaaS
 - [Stacktape](https://www.stacktape.com/) - Still your AWS, but 97% easier
 - [Zeet](http://zeet.co) - Simplify operations across your clouds.
 
