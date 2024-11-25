@@ -12,7 +12,6 @@ These products allow you to have a PaaS-like developer experience with your acco
 - [DevTron](https://devtron.ai/) - The Open-Source Software Delivery Platform for Kubernetes applications
 - [Elestio](https://elest.io/) - Fully managed DevOps platform to deploy your code and open-source software
 - [FlightControl](https://flightcontrol.dev/) - Fullstack Deploy Platform that runs on your own cloud
-- [Hop.io](https://hop.io/) - No more configs. No more fuss. Just push your code
 - [KintoHub](https://www.kintohub.com/) - All-in-one platform to combine and deploy your backend services, ... in one place 
 - [Massdriver](https://www.massdriver.cloud/) - Platform Engineering for Growing Software Teams
 - [Multy.dev](https://multy.dev/) (acquired by [Ori](https://ori.co/)) - Deploy cloud agnostic infrastructure anywhere 
@@ -32,8 +31,9 @@ These products allow you to have a PaaS-like developer experience with your acco
 ### Out of business / pivoted to a different product
 - Argonaut - End to end deployments to AWS and GCP in minutes. Pivot to [Warpbuild](https://www.warpbuild.com/)
 - Atomized - Enables developers to launch application infrastructure in their favorite cloud provider
-- Digger Classic (aka Lemon / AWS Bootstrap) - Alternative UI for AWS. Pivot to [CI for Terraform](https://digger.dev)
 - Cohesive - Modern development platform for fast-moving teams
+- Digger Classic (aka Lemon / AWS Bootstrap) - Alternative UI for AWS. Pivot to [Control plane for Terraform](https://digger.dev)
+- Hop.io - No more configs. No more fuss. Just push your code
 - Powertools - The fastest way to ship software on your cloud account
 - RunX Automated Infrastructure on any cloud
 - Tinystacks - Fastest way to deploy your Docker app on AWS
