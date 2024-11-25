@@ -17,7 +17,6 @@ These products allow you to have a PaaS-like developer experience with your acco
 - [Multy.dev](https://multy.dev/) (acquired by [Ori](https://ori.co/)) - Deploy cloud agnostic infrastructure anywhere 
 - [Northflank](http://northflank.com/) Deploy (code / databases / jobs) in seconds
 - [Nullstone](https://www.nullstone.io/) - Ship like a startup. Manage infrastructure like an enterprise
-- [Nucleus](https://www.nucleuscloud.com/) - The easiest way to build, deploy and manage services on Kubernetes
 - [Nuon](https://nuon.co) - Platform for creating BYOC applications
 - [Opsly](http://opslycloud.com) - There's a faster way to cloud infrastructure
 - [Ploi](https://ploi.io/) - Deploy your next server in a few clicks
@@ -34,6 +33,7 @@ These products allow you to have a PaaS-like developer experience with your acco
 - Cohesive - Modern development platform for fast-moving teams
 - Digger Classic (aka Lemon / AWS Bootstrap) - Alternative UI for AWS. Pivot to [Control plane for Terraform](https://digger.dev)
 - Hop.io - No more configs. No more fuss. Just push your code
+- Nucleus - The easiest way to build, deploy and manage services on Kubernetes. Pivot to [Neosync](https://www.neosync.dev/)
 - Powertools - The fastest way to ship software on your cloud account
 - RunX Automated Infrastructure on any cloud
 - Tinystacks - Fastest way to deploy your Docker app on AWS
