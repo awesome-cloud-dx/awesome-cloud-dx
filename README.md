@@ -25,7 +25,6 @@ These products allow you to have a PaaS-like developer experience with your acco
 - [Qovery](http://quovery.com) - Deliver Self-Service Infrastructure Faster
 - [ShapeBlock](https://www.shapeblock.com/) - Run your applications on a Heroku-like PaaS
 - [Stacktape](https://www.stacktape.com/) - Still your AWS, but 97% easier
-- [Zeet](http://zeet.co) - Simplify operations across your clouds.
 
 ### Out of business / pivoted to a different product
 - Argonaut - End to end deployments to AWS and GCP in minutes. Pivot to [Warpbuild](https://www.warpbuild.com/)
@@ -38,6 +37,7 @@ These products allow you to have a PaaS-like developer experience with your acco
 - RunX Automated Infrastructure on any cloud
 - Tinystacks - Fastest way to deploy your Docker app on AWS
 - Unicorn Platform - Create your AWS infrastructure in seconds
+- [Zeet](http://zeet.co) - Simplify operations across your clouds.
 
 
 # Self-hosted PaaS
