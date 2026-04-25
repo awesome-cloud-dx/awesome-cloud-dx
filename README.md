@@ -60,6 +60,7 @@ These products are primarily for Platform / SRE teams rather than developers. Th
 - [OpsLevel](https://www.opslevel.com/) - The internal developer portal for teams
 - [Port](http://Getport.io) - A developer portal for all your services, software & resources. 
 - [Roadie](https://roadie.io/) - The easiest way to get Spotify Backstage
+- [KubeStellar Console](https://github.com/kubestellar/console) - Open-source multi-cluster Kubernetes dashboard and internal developer platform with AI-powered operations, CNCF integrations, and real-time observability. CNCF Sandbox project.
 
 # Preview Environments / Environments-as-a-service
 
