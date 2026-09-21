@@ -55,6 +55,7 @@ Unlike the first category, these don't automatically configure your cloud accoun
 These products are primarily for Platform / SRE teams rather than developers. They tend to be less opinionated about the implementation of the underlying infrastructure; more like internal developer-facing UIs that enable developers to follow existing DevSecOps practices.
 
 - [Backstage by Spotify](https://backstage.spotify.com/) - Open platform for building developer portals
+- [Canopy](https://canopy.8starlabs.com/) - Living architecture maps for engineering teams to visualize services, dependencies, ownership, and cost context across a GitHub-based system.
 - [Clutch by Lyft](http://clutch.sh) - Shifting infrastructure management to a friendlier place
 - [Configure8](https://www.configure8.io/) - A developer portal for cataloging everything.
 - [OpsLevel](https://www.opslevel.com/) - The internal developer portal for teams
@@ -73,4 +74,3 @@ These products allow teams to spin up complete production-like environments on d
 - [Shipyard](https://shipyard.build/) - A New Environment For Every Pull Request.
 - [Velocity](http://velocity.tech) - Production-Like Environments. On-Demand. Accelerate the way you build and deliver products. 
 - [Webapp.io](http://webapp.io) - CI/CD & Preview Environments. 10x better DevOps for WebApps
-
