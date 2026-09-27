@@ -14,7 +14,8 @@ These products allow you to have a PaaS-like developer experience with your acco
 - [FlightControl](https://flightcontrol.dev/) - Fullstack Deploy Platform that runs on your own cloud
 - [KintoHub](https://www.kintohub.com/) - All-in-one platform to combine and deploy your backend services, ... in one place 
 - [Massdriver](https://www.massdriver.cloud/) - Platform Engineering for Growing Software Teams
-- [Multy.dev](https://multy.dev/) (acquired by [Ori](https://ori.co/)) - Deploy cloud agnostic infrastructure anywhere 
+- [Multy.dev](https://multy.dev/) (acquired by [Ori](https://ori.co/)) - Deploy cloud agnostic infrastructure anywhere
+- [Nife](https://nife.io/) - Deploy and operate applications across public cloud, edge, Kubernetes, bare metal, and private infrastructure from one control plane.
 - [Northflank](http://northflank.com/) Deploy (code / databases / jobs) in seconds
 - [Nullstone](https://www.nullstone.io/) - Ship like a startup. Manage infrastructure like an enterprise
 - [Nuon](https://nuon.co) - Platform for creating BYOC applications
