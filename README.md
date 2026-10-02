@@ -47,6 +47,7 @@ Unlike the first category, these don't automatically configure your cloud accoun
 - [Dokploy](https://dokploy.com/) - Open Source Alternative to Vercel, Netlify and Heroku
 - [Dokku](https://dokku.com/) - OSS self-hostable Heroku
 - [Coolify](https://www.producthunt.com/posts/coolify) - An open-source & self-hostable Heroku, Netlify alternative
+- [Easypanel](https://easypanel.io/) - Proprietary self-hosted deployment panel for apps, databases, Docker images and Compose; permanent Free plan for 3 projects, with server hosting costs separate.
 - [Kubero](https://www.kubero.dev/) - PaaS for Kubernetes. Use Heroku Workflows to deploy your App
 
   
